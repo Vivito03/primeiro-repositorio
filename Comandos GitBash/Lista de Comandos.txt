@@ -1,0 +1,4 @@
+git status: serve pra verificar o status do projeto, e pra ver se o arquivo está sincronizado com o do site.
+git add: adiciona uma pasta ou documento novo ao arquivo.
+git commit (-m "comentário a fazer"): "commita" o arquivo.
+git push origin main: envia todos os commits para a nuvem.
